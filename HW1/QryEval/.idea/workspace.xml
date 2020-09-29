@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee91113c-29e4-4258-a261-a5a421c8961a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hNB0adob95CSV2c8FCSoSmju3E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lucene-8.1.1/QryEvalExtensions.jar" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunManager">
+    <configuration name="QryEval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QryEval" />
+      <module name="QryEval" />
+      <option name="PROGRAM_PARAMETERS" value="param\sample.param" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.QryEval" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee91113c-29e4-4258-a261-a5a421c8961a" name="Default Changelist" comment="" />
+      <created>1599841447444</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599841447444</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599971726702">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599971726702" />
+    <state x="718" y="390" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1599960422485">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="390" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1599960422485" />
+    <state x="827" y="270" key="EnvironmentVariablesDialog" timestamp="1599964510920">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="827" y="270" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599964510920" />
+    <state x="666" y="261" key="FileChooserDialogImpl" timestamp="1599972581628">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="666" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599972581628" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1599972683170">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599972683170" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1599972683170">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599972683170" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1599972683170">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599972683170" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1599972683170">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599972683170" />
+    <state x="625" y="224" key="NewModule_or_Project.wizard" timestamp="1599972669118">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="625" y="224" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1599972669118" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1599960017004">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599960017004" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1599960811688">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599960811688" />
+  </component>
+</project>

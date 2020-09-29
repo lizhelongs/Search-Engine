@@ -1,0 +1,5 @@
+indexPath=index-gov2
+retrievalAlgorithm=UnrankedBoolean
+queryFilePath=queries.txt
+trecEvalOutputPath=HW1-queries-UB.teIn
+trecEvalOutputLength=100
